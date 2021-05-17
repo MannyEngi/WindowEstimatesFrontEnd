@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@data": ["src/data"],
+      "@theme": ["src/theme"],
+      "@layout": ["src/layout"],
+      "@public/*": ["public/*"],
+      "@data/*": ["src/data/*"],
+      "@contexts": ["src/contexts"],
+      "@contexts/*": ["src/contexts/*"],
+      "@components": ["src/components"],
+      "@components/*": ["src/components/*"],
+      "@animation/*": ["public/animation/*"]
+    }
+  },
+  "exclude": ["build", "node_modules"]
+}

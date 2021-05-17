@@ -1,0 +1,154 @@
+{
+    "opening": [
+        {
+            "label":"Window",
+            "value":"window",
+            "children": [
+                {
+                    "label":"Fixed Window",
+                    "value":"fixed window"
+                },
+                {
+                    "label":"Single Hung",
+                    "value":"single hung"
+                },
+                {
+                    "label":"Double Hung",
+                    "value":"double hung"
+                },
+                {
+                    "label":"LH Casement",
+                    "value":"lh casement"
+                },
+                {
+                    "label":"RH Casement",
+                    "value":"rh casement"
+                },
+                {
+                    "label":"XO Slider",
+                    "value":"xo slider"
+                },
+                {
+                    "label":"OX Slider",
+                    "value":"ox slider"
+                },
+                {
+                    "label":"Awning",
+                    "value":"awning"
+                },
+                {
+                    "label":"Assembly",
+                    "value":"assembly"
+                }
+            ]
+        },
+        {
+            "label":"Window Insert",
+            "value":"window insert",
+            "children": [
+                {
+                    "label":"Fixed Window",
+                    "value":"fixed window"
+                },
+                {
+                    "label":"Single Hung",
+                    "value":"single hung"
+                },
+                {
+                    "label":"Double Hung",
+                    "value":"double hung"
+                },
+                {
+                    "label":"LH Casement",
+                    "value":"lh casement"
+                },
+                {
+                    "label":"RH Casement",
+                    "value":"rh casement"
+                },
+                {
+                    "label":"XO Slider",
+                    "value":"xo slider"
+                },
+                {
+                    "label":"OX Slider",
+                    "value":"ox slider"
+                },
+                {
+                    "label":"Awning",
+                    "value":"awning"
+                }
+            ]
+        },
+        {
+            "label":"Sliding Door",
+            "value":"sliding door",
+            "children": [
+                {
+                    "label":"XO Slider",
+                    "value":"xo slider"
+                },
+                {
+                    "label":"OX Slider",
+                    "value":"ox slider"
+                },
+                {
+                    "label":"OXO Slider Left",
+                    "value":"oxo slider left"
+                },
+                {
+                    "label":"OXO Slider Right",
+                    "value":"oxo slider right"
+                },
+                {
+                    "label":"OXXO Slider",
+                    "value":"oxxo slider"
+                }
+            ]
+        },
+        {
+            "label":"Hinged Door",
+            "value":"hinged door",
+            "children": [
+                {
+                    "label":"Single LH",
+                    "value":"single lh"
+                },
+                {
+                    "label":"Single RH",
+                    "value":"single rh"
+                },
+                {
+                    "label":"Double XO",
+                    "value":"double xo"
+                },
+                {
+                    "label":"Double OX",
+                    "value":"double ox"
+                }
+            ]
+        }
+    ],
+    "glass": [
+        {
+            "label":"Clear Glass",
+            "value":"clear glass"
+        },
+        {
+            "label":"Tempered",
+            "value":"tempered"
+        },
+        {
+            "label":"Obscure",
+            "value":"obscure"
+        },
+        {
+            "label":"Tempered & Obscure",
+            "value":"tempered & obscure"
+        },
+        {
+            "label":"Laminated",
+            "value":"laminated"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+      "name": "marvin",
+      "logo": "./images/vendors/marvin.svg",
+      "isSelected": false
+    },
+    {
+      "name": "amerimax",
+      "logo": "./images/vendors/amerimax.png",
+      "isSelected": false
+    },
+    {
+      "name": "jeldwen",
+      "logo": "./images/vendors/jeldwen.svg",
+      "isSelected": false
+    },
+    {
+      "name": "fleetwood",
+      "logo": "./images/vendors/fleetwood.png",
+      "isSelected": false
+    }
+  ]

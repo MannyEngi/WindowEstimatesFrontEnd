@@ -1,0 +1,31 @@
+{
+    "marvin": [
+        {
+            "name": "Nail Fin",
+            "image": "./images/frames/nail-fin.jpg",
+            "isSelected": false
+        },
+        {
+            "name": "No Fin (Block Frame)",
+            "image": "./images/frames/no-fin.jpg",
+            "isSelected": false
+        }
+    ],
+    "amerimax": [
+        {
+            "name": "Nail Fin",
+            "image": "./images/frames/nail-fin.jpg",
+            "isSelected": false
+        },
+        {
+            "name": "Flush Fin",
+            "image": "./images/frames/flush-fin.png",
+            "isSelected": false
+        },
+        {
+            "name": "No Fin (Block Frame)",
+            "image": "./images/frames/no-fin.jpg",
+            "isSelected": false
+        }
+    ]
+}

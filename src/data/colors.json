@@ -1,0 +1,171 @@
+{
+	"marvin": [
+		{
+			"color":"#E0E4E4",
+			"label":"Stone White",
+			"isSelected": false
+		},
+		{
+			"color":"#060607",
+			"label":"Ebony",
+			"isSelected": false
+		},
+		{
+			"color":"#604A3E",
+			"label":"Bahama Brown",
+			"isSelected": false
+		},
+		{
+			"color":"#89939A",
+			"label":"Silver",
+			"isSelected": false
+		},
+		{
+			"color":"#E9DCC6",
+			"label":"Sierra White",
+			"isSelected": false
+		},
+		{
+			"color":"#C1B29F",
+			"label":"Cashmere",
+			"isSelected": false
+		},
+		{
+			"color":"#968A7C",
+			"label":"Pebble Gray",
+			"isSelected": false
+		},
+		{
+			"color":"#7E8283",
+			"label":"Cadet Gray",
+			"isSelected": false
+		},
+		{
+			"color":"#875632",
+			"label":"Clay",
+			"isSelected": false
+		},
+		{
+			"color":"#8D918D",
+			"label":"Gun Metal",
+			"isSelected": false
+		},
+		{
+			"color":"#896757",
+			"label":"Suede",
+			"isSelected": false
+		},
+		{
+			"color":"#E1A482",
+			"label":"Copper Pearl",
+			"isSelected": false
+		},
+		{
+			"color":"#8B8F7A",
+			"label":"Sage",
+			"isSelected": false
+		},
+		{
+			"color":"#F5E3CA",
+			"label":"Coconut",
+			"isSelected": false
+		},
+		{
+			"color":"#2C3F37",
+			"label":"Evergreen",
+			"isSelected": false
+		},
+		{
+			"color":"#4F4B49",
+			"label":"Bronze",
+			"isSelected": false
+		},
+		{
+			"color":"#335A70",
+			"label":"Blue",
+			"isSelected": false
+		},
+		{
+			"color":"#702E27",
+			"label":"Wineberry",
+			"isSelected": false
+		}
+	],
+	"amerimax": [
+		{
+			"color":"#E3E2E1",
+			"label":"White",
+			"isSelected": false
+		},
+		{
+			"color":"#B29082",
+			"label":"Sandstone",
+			"isSelected": false
+		},
+		{
+			"color":"#B4946C",
+			"label":"Sandalwood",
+			"isSelected": false
+		},
+		{
+			"color":"#EDC9AF",
+			"label":"Desert Sand",
+			"isSelected": false
+		},
+		{
+			"color":"#848789",
+			"label":"Aluminum",
+			"isSelected": false
+		},
+		{
+			"color":"#A4ADB0",
+			"label":"Gull Grey",
+			"isSelected": false
+		},
+		{
+			"color":"#B2AC88",
+			"label":"Sage Green",
+			"isSelected": false
+		},
+		{
+			"color":"#2C493F",
+			"label":"Evergreen",
+			"isSelected": false
+		},
+		{
+			"color":"#964B00",
+			"label":"Brown",
+			"isSelected": false
+		},
+		{
+			"color":"#CD7F32",
+			"label":"Bronze",
+			"isSelected": false
+		},
+		{
+			"color":"#804A00",
+			"label":"Truth Bronze",
+			"isSelected": false
+		},
+		{
+			"color":"#127797",
+			"label":"Slate Blue",
+			"isSelected": false
+		},
+		{
+			"color":"#702E27",
+			"label":"Tile Red",
+			"isSelected": false
+		},
+		{
+			"color":"#060607",
+			"label":"Black",
+			"isSelected": false
+		},
+		{
+			"color":"#7E8283",
+			"label":"Custom",
+			"isSelected": false
+		}
+	]
+}
